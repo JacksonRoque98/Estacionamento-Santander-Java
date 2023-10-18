@@ -2,12 +2,17 @@
 -Santander Dev Week 2023 Java API-
 RESTful API da Santander Dev Week 2023 construída em Java 17 com Spring Boot 3.
 
-Principais Tecnologias
+Principais Tecnologias:
 Java 17
+
 Spring Boot 3
+
 Spring Data JPA
+
 OpenAPI (Swagger)
+
 Railway
+
 
 ```mermaid
 classDiagram
